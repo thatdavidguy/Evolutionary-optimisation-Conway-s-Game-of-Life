@@ -18,6 +18,7 @@ Press the spacebar to start or pause the evolution.
 Close the window to exit the game.
 ## Examples
 3x3 initial Grid Simulation:
+
 ![3x3GameHighscore-ezgif com-video-to-gif-converter](https://github.com/thatdavidguy/Evolutionary-optimisation-Conway-s-Game-of-Life/assets/61171213/d76dd78b-297e-4964-a16d-ee8df805255d)
 
 https://youtu.be/cQ3SUOLUaYk
