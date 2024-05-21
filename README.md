@@ -8,14 +8,27 @@ This implementation allows you to interact with the game by adding or removing c
 
 ## Prerequisites
 Python 3.x
+
 Pygame library
 ## Usage
 Clone the repository.
 Install the required dependencies (pygame).
-Run the script.
+
+### Simulation
+Run the ConwaysGameofLife.py script
+
 Click on the screen to add or remove cells.
-Press the spacebar to start or pause the evolution.
+
+Press the spacebar to start or pause the simulation.
+
 Close the window to exit the game.
+
+
+### Evolution
+Run the Simulation.ipnyb cells
+
+to run evoltionary optimization on set grid to obtain the most amount of cells on screen within 10,000 steps
+
 ## Examples
 3x3 initial Grid Simulation:
 
